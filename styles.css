@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #74CCF7;
+    background-color: #af6aff;
 }
 
 #noButton {
@@ -37,13 +37,13 @@ body {
 }
 
 .btn {
-    background-color: #7a8f99;
-    color: black;
+    background-color: #ffc755;
+    color: beige;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: bolder;
     margin: 4px 2px;
     cursor: pointer;
     border: none;
